@@ -1,4 +1,5 @@
 import { Text, View } from "react-native";
+import { colors } from "../../res/colors";
 
 const HomeScreen = () => {
   const items = [
